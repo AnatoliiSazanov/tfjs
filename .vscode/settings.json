@@ -12,7 +12,7 @@
     "**/bazel-out/**/*": true,
     "**/bazel-genfiles/**/*": true,
     "**/bazel-testlogs/**/*": true,
-    "**/bazel-tfjs*/**/*": true,
+    "**/bazel-tfjs*/**/*": true
   },
   "files.trimTrailingWhitespace": true,
   "editor.tabSize": 2,
@@ -34,7 +34,7 @@
       }
     ]
   },
-  "editor.defaultFormatter": "xaver.clang-format",
+  "editor.defaultFormatter": "vscode.typescript-language-features",
   "editor.rulers": [80],
   "clang-format.style": "Google",
   "files.insertFinalNewline": true,
